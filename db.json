@@ -1,0 +1,944 @@
+{
+   "categories":[
+      {
+         "id":2266,
+         "name":"Perawatan & Kecantikan",
+         "children":[
+            {
+               "id":2650,
+               "name":"Softlens"
+            },
+            {
+               "id":2269,
+               "name":"Perawatan Wajah",
+               "children":[
+                  {
+                     "id":2272,
+                     "name":"Masker Wajah Wanita"
+                  },
+                  {
+                     "id":2275,
+                     "name":"Masker Wajah Pria"
+                  },
+                  {
+                     "id":2278,
+                     "name":"Pembersih Wajah Wanita"
+                  },
+                  {
+                     "id":2281,
+                     "name":"Pembersih Wajah Pria"
+                  },
+                  {
+                     "id":2287,
+                     "name":"Suplemen Wajah Pria"
+                  },
+                  {
+                     "id":2284,
+                     "name":"Suplemen Wajah Wanita"
+                  }
+               ]
+            },
+            {
+               "id":2290,
+               "name":"Makeup",
+               "children":[
+                  {
+                     "id":2293,
+                     "name":"Wajah"
+                  },
+                  {
+                     "id":2296,
+                     "name":"Mata"
+                  },
+                  {
+                     "id":2299,
+                     "name":"Bibir"
+                  },
+                  {
+                     "id":2302,
+                     "name":"Kuku"
+                  },
+                  {
+                     "id":2305,
+                     "name":"Rambut"
+                  },
+                  {
+                     "id":2308,
+                     "name":"Aksesoris Makeup"
+                  }
+               ]
+            },
+            {
+               "id":2311,
+               "name":"Perawatan Tubuh",
+               "children":[
+                  {
+                     "id":2314,
+                     "name":"Perlengkapan Mandi"
+                  },
+                  {
+                     "id":2317,
+                     "name":"Perawatan Kulit Wanita"
+                  },
+                  {
+                     "id":2320,
+                     "name":"Perawatan Kulit Pria"
+                  },
+                  {
+                     "id":2323,
+                     "name":"Perawatan Rambut Wanita"
+                  },
+                  {
+                     "id":2326,
+                     "name":"Perawatan Rambut Pria"
+                  },
+                  {
+                     "id":2329,
+                     "name":"Peralatan Cukur"
+                  }
+               ]
+            },
+            {
+               "id":2332,
+               "name":"Parfum",
+               "children":[
+                  {
+                     "id":2335,
+                     "name":"Pria"
+                  },
+                  {
+                     "id":2338,
+                     "name":"Wanita"
+                  },
+                  {
+                     "id":2341,
+                     "name":"Unisex"
+                  }
+               ]
+            },
+            {
+               "id":2344,
+               "name":"Pelangsing",
+               "children":[
+                  {
+                     "id":2347,
+                     "name":"Obat Pelangsing"
+                  },
+                  {
+                     "id":2350,
+                     "name":"Makanan & Minuman"
+                  },
+                  {
+                     "id":2353,
+                     "name":"Alat Pelangsing"
+                  }
+               ]
+            },
+            {
+               "id":2356,
+               "name":"Produk Kecantikan Lainnya"
+            },
+            {
+               "id":218,
+               "name":"Hair Care"
+            }
+         ]
+      },
+      {
+         "id":2359,
+         "name":"Kesehatan",
+         "children":[
+            {
+               "id":2666,
+               "name":"Kesehatan Mulut & Gigi",
+               "children":[
+                  {
+                     "id":2691,
+                     "name":"Obat Kumur"
+                  },
+                  {
+                     "id":2696,
+                     "name":"Pemutih Gigi"
+                  },
+                  {
+                     "id":2701,
+                     "name":"Pembersih Lidah"
+                  }
+               ]
+            },
+            {
+               "id":2671,
+               "name":"Kesehatan Mata",
+               "children":[
+                  {
+                     "id":2706,
+                     "name":"Obat Tetes Mata"
+                  },
+                  {
+                     "id":2711,
+                     "name":"Alat Terapi Mata"
+                  }
+               ]
+            },
+            {
+               "id":2676,
+               "name":"Kesehatan Telinga",
+               "children":[
+                  {
+                     "id":2716,
+                     "name":"Alat Bantu Dengar"
+                  },
+                  {
+                     "id":2721,
+                     "name":"Pembersih Telinga"
+                  }
+               ]
+            },
+            {
+               "id":2681,
+               "name":"Kesehatan Wanita",
+               "children":[
+                  {
+                     "id":2686,
+                     "name":"Pembalut"
+                  }
+               ]
+            },
+            {
+               "id":2362,
+               "name":"Obat & Suplemen",
+               "children":[
+                  {
+                     "id":2365,
+                     "name":"Obat-Obatan"
+                  },
+                  {
+                     "id":2368,
+                     "name":"Vitamin & Suplemen"
+                  },
+                  {
+                     "id":2371,
+                     "name":"Herbal"
+                  }
+               ]
+            },
+            {
+               "id":2374,
+               "name":"Alat Kesehatan",
+               "children":[
+                  {
+                     "id":2377,
+                     "name":"Timbangan & Alat Ukur Kesehatan"
+                  },
+                  {
+                     "id":2380,
+                     "name":"Alat Bantu Kesehatan"
+                  },
+                  {
+                     "id":2383,
+                     "name":"KB & Kontrasepsi"
+                  }
+               ]
+            },
+            {
+               "id":2386,
+               "name":"Produk Kesehatan Lainnya"
+            }
+         ]
+      },
+      {
+         "id":159,
+         "name":"Fashion Wanita",
+         "children":[
+            {
+               "id":2038,
+               "name":"Sandal",
+               "children":[
+                  {
+                     "id":2547,
+                     "name":"Sandal Flat"
+                  },
+                  {
+                     "id":2551,
+                     "name":"Sandal Flip Flop / Sandal Jepit"
+                  }
+               ]
+            },
+            {
+               "id":2654,
+               "name":"Piyama/Baju Tidur"
+            },
+            {
+               "id":2726,
+               "name":"Jumpsuit"
+            },
+            {
+               "id":2571,
+               "name":"Jilbab",
+               "children":[
+                  {
+                     "id":2575,
+                     "name":"Segi empat"
+                  },
+                  {
+                     "id":2579,
+                     "name":"Pashmina"
+                  },
+                  {
+                     "id":2583,
+                     "name":"Khimar"
+                  },
+                  {
+                     "id":2587,
+                     "name":"Ciput"
+                  },
+                  {
+                     "id":2591,
+                     "name":"Instan"
+                  }
+               ]
+            },
+            {
+               "id":561,
+               "name":"Bahan & Kain"
+            },
+            {
+               "id":163,
+               "name":"Kacamata"
+            },
+            {
+               "id":1096,
+               "name":"Topi"
+            },
+            {
+               "id":281,
+               "name":"Kaos"
+            },
+            {
+               "id":1099,
+               "name":"Polo Shirt"
+            },
+            {
+               "id":282,
+               "name":"Kemeja, Blouse"
+            },
+            {
+               "id":14,
+               "name":"Dress"
+            },
+            {
+               "id":2555,
+               "name":"Baju Muslim & Perlengkapan Sholat",
+               "children":[
+                  {
+                     "id":2559,
+                     "name":"Busana Muslim Wanita"
+                  },
+                  {
+                     "id":2563,
+                     "name":"Mukena"
+                  },
+                  {
+                     "id":2567,
+                     "name":"Sajadah"
+                  }
+               ]
+            },
+            {
+               "id":283,
+               "name":"Sweater"
+            },
+            {
+               "id":284,
+               "name":"Jaket"
+            },
+            {
+               "id":285,
+               "name":"Bolero, Cardigan"
+            },
+            {
+               "id":286,
+               "name":"Kebaya"
+            },
+            {
+               "id":287,
+               "name":"Rok"
+            },
+            {
+               "id":938,
+               "name":"Legging & Stocking"
+            },
+            {
+               "id":292,
+               "name":"Baju Hamil"
+            },
+            {
+               "id":998,
+               "name":"Bikini"
+            },
+            {
+               "id":289,
+               "name":"Pakaian Dalam, Lingerie"
+            },
+            {
+               "id":80,
+               "name":"Tas Wanita",
+               "children":[
+                  {
+                     "id":2475,
+                     "name":"Hand Bags"
+                  },
+                  {
+                     "id":2479,
+                     "name":"Clutches Bag"
+                  },
+                  {
+                     "id":2483,
+                     "name":"Backpack"
+                  },
+                  {
+                     "id":2487,
+                     "name":"Shoulder Bags"
+                  },
+                  {
+                     "id":2491,
+                     "name":"Sling Bags"
+                  },
+                  {
+                     "id":2495,
+                     "name":"Tote Bags"
+                  },
+                  {
+                     "id":2499,
+                     "name":"Satchel Bags"
+                  },
+                  {
+                     "id":2503,
+                     "name":"Hobo Bags"
+                  },
+                  {
+                     "id":2507,
+                     "name":"Messenger Bags"
+                  },
+                  {
+                     "id":2511,
+                     "name":"Pouch Bags"
+                  }
+               ]
+            },
+            {
+               "id":15,
+               "name":"Jam Tangan"
+            },
+            {
+               "id":1093,
+               "name":"Jeans"
+            },
+            {
+               "id":288,
+               "name":"Celana",
+               "children":[
+                  {
+                     "id":2515,
+                     "name":"Celana Panjang"
+                  },
+                  {
+                     "id":2519,
+                     "name":"Celana Pendek"
+                  }
+               ]
+            },
+            {
+               "id":16,
+               "name":"Sepatu",
+               "children":[
+                  {
+                     "id":2523,
+                     "name":"Sneaker"
+                  },
+                  {
+                     "id":2527,
+                     "name":"Flat Shoes"
+                  },
+                  {
+                     "id":2531,
+                     "name":"Wedges"
+                  },
+                  {
+                     "id":2535,
+                     "name":"Slip On"
+                  },
+                  {
+                     "id":2539,
+                     "name":"Heels"
+                  },
+                  {
+                     "id":2543,
+                     "name":"Boots"
+                  }
+               ]
+            },
+            {
+               "id":294,
+               "name":"Sendal"
+            },
+            {
+               "id":293,
+               "name":"Dompet"
+            },
+            {
+               "id":935,
+               "name":"Sarung Tangan"
+            },
+            {
+               "id":1087,
+               "name":"Ikat Pinggang"
+            },
+            {
+               "id":17,
+               "name":"Perhiasan & Aksesoris"
+            },
+            {
+               "id":1116,
+               "name":"Kaus Kaki"
+            }
+         ]
+      },
+      {
+         "id":164,
+         "name":"Fashion Pria",
+         "children":[
+            {
+               "id":2002,
+               "name":"Bahan & Kain"
+            },
+            {
+               "id":2657,
+               "name":"Piyama/Baju Tidur"
+            },
+            {
+               "id":172,
+               "name":"Kacamata"
+            },
+            {
+               "id":304,
+               "name":"Topi"
+            },
+            {
+               "id":165,
+               "name":"Kaos"
+            },
+            {
+               "id":167,
+               "name":"Polo Shirt"
+            },
+            {
+               "id":296,
+               "name":"Kemeja"
+            },
+            {
+               "id":564,
+               "name":"Jas"
+            },
+            {
+               "id":297,
+               "name":"Sweater"
+            },
+            {
+               "id":298,
+               "name":"Jaket"
+            },
+            {
+               "id":301,
+               "name":"Pakaian Dalam"
+            },
+            {
+               "id":168,
+               "name":"Tas Pria",
+               "children":[
+                  {
+                     "id":2439,
+                     "name":"Selempang"
+                  },
+                  {
+                     "id":2443,
+                     "name":"Punggung / Backpack"
+                  },
+                  {
+                     "id":2423,
+                     "name":"Ransel"
+                  },
+                  {
+                     "id":2447,
+                     "name":"Tas Pria Lainnya"
+                  }
+               ]
+            },
+            {
+               "id":171,
+               "name":"Jam Tangan"
+            },
+            {
+               "id":300,
+               "name":"Jeans"
+            },
+            {
+               "id":299,
+               "name":"Celana",
+               "children":[
+                  {
+                     "id":2599,
+                     "name":"Celana Pendek"
+                  },
+                  {
+                     "id":2427,
+                     "name":"Celana Panjang"
+                  }
+               ]
+            },
+            {
+               "id":169,
+               "name":"Sepatu",
+               "children":[
+                  {
+                     "id":2431,
+                     "name":"Sneaker"
+                  },
+                  {
+                     "id":2451,
+                     "name":"Slip On"
+                  },
+                  {
+                     "id":2455,
+                     "name":"Boots"
+                  },
+                  {
+                     "id":2459,
+                     "name":"Loafers"
+                  },
+                  {
+                     "id":2463,
+                     "name":"Formal"
+                  }
+               ]
+            },
+            {
+               "id":303,
+               "name":"Sandal",
+               "children":[
+                  {
+                     "id":2435,
+                     "name":"Sandal Flat"
+                  },
+                  {
+                     "id":2467,
+                     "name":"Sandal Jepit"
+                  },
+                  {
+                     "id":2732,
+                     "name":"Sandal Sepatu"
+                  }
+               ]
+            },
+            {
+               "id":302,
+               "name":"Dompet"
+            },
+            {
+               "id":932,
+               "name":"Sarung Tangan"
+            },
+            {
+               "id":1089,
+               "name":"Ikat Pinggang"
+            },
+            {
+               "id":170,
+               "name":"Perhiasan & Aksesoris"
+            },
+            {
+               "id":1117,
+               "name":"Kaus Kaki"
+            },
+            {
+               "id":2407,
+               "name":"Baju Muslim & Perlengkapan Sholat",
+               "children":[
+                  {
+                     "id":2411,
+                     "name":"Busana Muslim Pria"
+                  },
+                  {
+                     "id":2415,
+                     "name":"Peci & Kopiah"
+                  },
+                  {
+                     "id":2419,
+                     "name":"Sarung"
+                  },
+                  {
+                     "id":2471,
+                     "name":"Sajadah"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":7,
+         "name":"Handphone",
+         "children":[
+            {
+               "id":1707,
+               "name":"Spare Part & Tools Handphone"
+            },
+            {
+               "id":1918,
+               "name":"Virtual Reality"
+            },
+            {
+               "id":1921,
+               "name":"Smartwatch"
+            },
+            {
+               "id":8,
+               "name":"HP & Smartphone"
+            },
+            {
+               "id":156,
+               "name":"Tablet"
+            },
+            {
+               "id":184,
+               "name":"Power Bank"
+            },
+            {
+               "id":178,
+               "name":"Headset (Earphone)"
+            },
+            {
+               "id":180,
+               "name":"Memory Card"
+            },
+            {
+               "id":183,
+               "name":"Kartu Perdana"
+            },
+            {
+               "id":185,
+               "name":"Aksesoris Handphone",
+               "children":[
+                  {
+                     "id":1933,
+                     "name":"ArmBand"
+                  },
+                  {
+                     "id":2645,
+                     "name":"Aksesoris Lainnya"
+                  },
+                  {
+                     "id":848,
+                     "name":"Tongsis"
+                  },
+                  {
+                     "id":851,
+                     "name":"Tomsis"
+                  },
+                  {
+                     "id":176,
+                     "name":"Baterai"
+                  },
+                  {
+                     "id":177,
+                     "name":"Charger"
+                  },
+                  {
+                     "id":179,
+                     "name":"Kabel Data"
+                  },
+                  {
+                     "id":181,
+                     "name":"Screen Guard"
+                  },
+                  {
+                     "id":182,
+                     "name":"Casing & Cover"
+                  },
+                  {
+                     "id":1070,
+                     "name":"Mini Tripod"
+                  },
+                  {
+                     "id":507,
+                     "name":"Lensa Portabel"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":1,
+         "name":"Komputer",
+         "children":[
+            {
+               "id":1510,
+               "name":"Hardware",
+               "children":[
+                  {
+                     "id":227,
+                     "name":"Processor"
+                  },
+                  {
+                     "id":228,
+                     "name":"Motherboard"
+                  },
+                  {
+                     "id":1522,
+                     "name":"SSD"
+                  },
+                  {
+                     "id":230,
+                     "name":"Hard Disk & RAM"
+                  },
+                  {
+                     "id":231,
+                     "name":"VGA"
+                  },
+                  {
+                     "id":234,
+                     "name":"UPS"
+                  }
+               ]
+            },
+            {
+               "id":1639,
+               "name":"Mini PC"
+            },
+            {
+               "id":2,
+               "name":"Desktop"
+            },
+            {
+               "id":3,
+               "name":"Laptop"
+            },
+            {
+               "id":157,
+               "name":"Server"
+            },
+            {
+               "id":4,
+               "name":"Printer",
+               "children":[
+                  {
+                     "id":1924,
+                     "name":"Unit Printer"
+                  },
+                  {
+                     "id":1927,
+                     "name":"Cartridge"
+                  },
+                  {
+                     "id":1930,
+                     "name":"Aksesoris printer"
+                  },
+                  {
+                     "id":1531,
+                     "name":"Tinta Printer"
+                  }
+               ]
+            },
+            {
+               "id":5,
+               "name":"Software Original"
+            },
+            {
+               "id":224,
+               "name":"Scanner"
+            },
+            {
+               "id":225,
+               "name":"Monitor"
+            },
+            {
+               "id":226,
+               "name":"Aksesoris",
+               "children":[
+                  {
+                     "id":474,
+                     "name":"Cooler Fan"
+                  },
+                  {
+                     "id":229,
+                     "name":"Flashdisk"
+                  },
+                  {
+                     "id":232,
+                     "name":"Keyboard"
+                  },
+                  {
+                     "id":233,
+                     "name":"Mouse"
+                  },
+                  {
+                     "id":235,
+                     "name":"WebCam"
+                  },
+                  {
+                     "id":236,
+                     "name":"Optical Drive"
+                  },
+                  {
+                     "id":237,
+                     "name":"Network Tools"
+                  },
+                  {
+                     "id":238,
+                     "name":"Tas & Case"
+                  },
+                  {
+                     "id":239,
+                     "name":"Speaker & Sound"
+                  },
+                  {
+                     "id":240,
+                     "name":"Baterai"
+                  },
+                  {
+                     "id":356,
+                     "name":"Modem"
+                  },
+                  {
+                     "id":1076,
+                     "name":"Laser Pointer"
+                  },
+                  {
+                     "id":1079,
+                     "name":"Card Reader"
+                  },
+                  {
+                     "id":1119,
+                     "name":"Kabel USB"
+                  },
+                  {
+                     "id":1513,
+                     "name":"Charger"
+                  },
+                  {
+                     "id":1516,
+                     "name":"MMC"
+                  },
+                  {
+                     "id":1519,
+                     "name":"Portable HD"
+                  },
+                  {
+                     "id":241,
+                     "name":"Aksesoris Lainnya"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
